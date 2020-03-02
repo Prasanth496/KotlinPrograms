@@ -1,4 +1,4 @@
-class Queue<T>(var capacity : Int)
+class Queue<T>(val capacity : Int)
 {
 
     var elements = arrayOfNulls<Any?>(capacity) as Array<T?>
@@ -22,7 +22,7 @@ class Queue<T>(var capacity : Int)
     {
         if(front == -1)
         {
-            println("queue is empty");
+            println("queue is empty")
 
         }
         elements.get(front++)
