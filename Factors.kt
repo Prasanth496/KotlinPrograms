@@ -16,7 +16,7 @@ fun primefactors(n : Int) : Unit
         }
     }
 }
-
+// main function
 fun main(args : Array<String>)
 {
     val scanner = Scanner(System.`in`)
