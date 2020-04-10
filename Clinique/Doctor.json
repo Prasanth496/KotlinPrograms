@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vinod",
+    "id": "4567",
+    "specialization": "psychology",
+    "availabilityTime": 8.00,
+    "appointment": 1
+  },
+  {
+    "name": "Dinesh",
+    "id": "5487",
+    "specialization": "physiotherapist",
+    "availabilityTime": 21.00,
+    "appointment": 2
+  },
+  {
+    "name": "Vijay",
+    "id": "4239",
+    "specialization": "Cardiologist",
+    "availabilityTime": 11.00,
+    "appointment": 2
+  },
+  {
+    "name": "Umar",
+    "id": "5248",
+    "specialization": "ENT",
+    "availabilityTime": 13.00,
+    "appointment": 3
+  },
+  {
+    "name": "Tanish",
+    "id": "9277",
+    "specialization": "Neurologist",
+    "availabilityTime": 17.30,
+    "appointment": 4
+  }
+]
